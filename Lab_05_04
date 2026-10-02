@@ -1,0 +1,14 @@
+public class Main {
+
+    public static void main(String[] args) {
+
+        System.out.println("Please enter your age:");
+        System.out.println("27");
+
+        int customersAge = 27;
+
+        if (customersAge >= 21) {
+            System.out.println("Please pickup a paper wristband from the frontdesk");
+        }
+    }
+}
